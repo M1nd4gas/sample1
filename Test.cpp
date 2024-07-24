@@ -1,4 +1,4 @@
-namespace Training101;
+namespace sample1;
 
 class Program
 {
